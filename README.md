@@ -2,7 +2,7 @@
 
 Deelbare versie van de Zonneplanner: een interactieve planner die per uur én per fase doorrekent wat zonnepanelen en een thuisbatterij opleveren op gemeten verbruik van een woning in Reeuwijk.
 
-**Online:** https://claude.ai/code/artifact/ca0aa765-b200-4a68-abd4-e2c21ad285f0
+**Online:** https://dvollebregt.github.io/zonnepanelen-en-batterij-reeuwijk/ — te openen zonder in te loggen.
 
 Of open `index.html` in een browser; het is één los bestand zonder server of build-stap.
 
